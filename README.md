@@ -1,12 +1,15 @@
 ## Bloco de notas 📝
 
-### Um Bloco de notas que permite você criar notas,editar as mesmas e até apagar as mesmas, todas notas ficam salvas em seu computador
+### Um Bloco de notas que permite você criar notas,editar as mesmas e até apagar as mesmas, todas notas ficam salvas em seu computador. é mostrado o ultimo horário que uma nota foi modificada
 ## Algumas Telas Da Aplicação
-<img align="center" src="git.png">
-<img align="center" src="juice.png">
+![tela 1)](https://user-images.githubusercontent.com/92438875/204671384-e72675e8-4a2c-402f-98c2-4df0ae05e3f2.png)
+![tela 2](https://user-images.githubusercontent.com/92438875/204671463-e51b8956-55d7-4512-9c37-ff5d39032cdd.png)
+![tela 3](https://user-images.githubusercontent.com/92438875/204671510-a7b73c56-8a2c-45d1-bcec-9104e4e0ef52.png)
+
 
 
 ## 🚀Tecnologias Usadas
+
 
 ### esse projeto foi feito utilizando a biblioteca react:
 
